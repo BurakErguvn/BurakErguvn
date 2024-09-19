@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Student of C.E.  I am interested in AI and data science 🐍
+🖥️ Student of C.E.  I am interested in Blockchain 
 
 
 ## 🌐 Socials:
