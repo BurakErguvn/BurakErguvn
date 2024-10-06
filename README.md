@@ -1,5 +1,6 @@
 # 💫 About Me:
-🖥️ Student of C.E. I am interested in Blockchain
+🖥️ Student of C.E. I am interested in Blockchain. 
+❤️ I was fascinated when I came across Rust. I get great pleasure from programming with Rust.
 
 
 ## 🌐 Socials:
