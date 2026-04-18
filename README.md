@@ -1,6 +1,14 @@
-# 💫 About Me:
-🖥️ Student of C.E. I am interested in Blockchain. 
-❤️ I was fascinated when I came across Rust. I get great pleasure from programming with Rust.
+### 🚀 About Me
+
+- 🎓 **Computer Engineering Student**
+- ⚙️ **Blockchain Engineer & Web3 Developer**
+- 🦀 **Primary Focus:** Rust
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white" />
+</p>
 
 
 ## 🌐 Socials:
